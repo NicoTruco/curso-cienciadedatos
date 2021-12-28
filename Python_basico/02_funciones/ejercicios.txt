@@ -1,0 +1,10 @@
+.- recibir un nro del mes e imprimir mes en palabras
+	sin utilizar switch
+	utilizando switch
+
+
+.- if, else
+.- contadores banderas auxialiar	
+.- for while loop
+.- validaciones y menu
+	try
